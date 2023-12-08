@@ -120,7 +120,7 @@
                        WidthRequest="100"
                        
                        />
-                <Button x:Name="btnPlus" Text="+" WidthRequest="70"/>
+                <Button x:Name="btnPlus" Text="+" WidthRequest="70"/ >
             </HorizontalStackLayout>
             
             
